@@ -1,0 +1,19 @@
+{
+  "name": "webpack-tut",
+  "version": "1.0.0",
+  "description": "webpack features code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shixudongleo/webpack-tut.git"
+  },
+  "author": "shixudongleo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shixudongleo/webpack-tut/issues"
+  },
+  "homepage": "https://github.com/shixudongleo/webpack-tut#readme"
+}
